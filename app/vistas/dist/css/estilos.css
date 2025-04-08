@@ -1,0 +1,39 @@
+/* Estilo para el sidebar */
+.main-sidebar,
+.main-sidebar a,
+.main-sidebar .brand-text,
+.main-sidebar .info a,
+.main-sidebar .nav-link,
+.main-sidebar .nav-link p,
+.main-sidebar .nav-icon {
+  color: black !important;
+  background-color: #85d3d1 !important;
+}
+
+/* Estilo para la navbar */
+.main-header.navbar {
+  background-color: #85d3d1 !important;
+  color: black !important;
+}
+
+.main-header.navbar a {
+  color: black !important;
+}
+
+/*Footer estilo*/
+.main-footer {
+    background-color: #fef4bc !important;
+    color: black !important;
+  }
+  
+
+.btn-personalizado {
+    background-color: #897ab0 !important;
+    color: #fef4bc !important;
+    border: none;
+  }
+  
+.btn-personalizado:hover {
+    background-color: #7d6ba3 !important; /* un tono un poco más oscuro para hover */
+    color: #ffffff !important;
+  }
